@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env.local
+.env.*.local
+todos.db
+todos.db-shm
+todos.db-wal
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+Thumbs.db
+test-results/
+playwright-report/
+*.log
